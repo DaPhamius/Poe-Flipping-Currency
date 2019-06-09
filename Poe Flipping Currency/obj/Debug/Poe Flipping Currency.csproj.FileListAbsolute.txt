@@ -1,0 +1,10 @@
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\obj\Debug\Poe Flipping Currency.csprojAssemblyReference.cache
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\obj\Debug\Poe_Flipping_Currency.Form2.resources
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\obj\Debug\Poe_Flipping_Currency.Properties.Resources.resources
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\obj\Debug\Poe Flipping Currency.csproj.GenerateResource.cache
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\obj\Debug\Poe Flipping Currency.csproj.CoreCompileInputs.cache
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\bin\Debug\Poe Flipping Currency.exe.config
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\bin\Debug\Poe Flipping Currency.exe
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\bin\Debug\Poe Flipping Currency.pdb
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\obj\Debug\Poe Flipping Currency.exe
+C:\Users\Dan Pham\source\repos\Poe Flipping Currency\Poe Flipping Currency\obj\Debug\Poe Flipping Currency.pdb
