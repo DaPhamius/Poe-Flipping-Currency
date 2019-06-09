@@ -71,8 +71,8 @@
             this.ExaltR1 = new System.Windows.Forms.TextBox();
             this.ExaltR2 = new System.Windows.Forms.TextBox();
             this.AnnulR2 = new System.Windows.Forms.TextBox();
-            this.AnullRev1 = new System.Windows.Forms.TextBox();
-            this.AnullM = new System.Windows.Forms.TextBox();
+            this.AnnullR1 = new System.Windows.Forms.TextBox();
+            this.AnnullM = new System.Windows.Forms.TextBox();
             this.AnnulS = new System.Windows.Forms.TextBox();
             this.AnnulB = new System.Windows.Forms.TextBox();
             this.RegR2 = new System.Windows.Forms.TextBox();
@@ -628,27 +628,27 @@
             this.AnnulR2.TabIndex = 400;
             this.AnnulR2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // AnullRev1
+            // AnnullR1
             // 
-            this.AnullRev1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.AnullRev1.Location = new System.Drawing.Point(377, 156);
-            this.AnullRev1.Margin = new System.Windows.Forms.Padding(2);
-            this.AnullRev1.Name = "AnullRev1";
-            this.AnullRev1.ReadOnly = true;
-            this.AnullRev1.Size = new System.Drawing.Size(113, 20);
-            this.AnullRev1.TabIndex = 399;
-            this.AnullRev1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.AnnullR1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.AnnullR1.Location = new System.Drawing.Point(377, 156);
+            this.AnnullR1.Margin = new System.Windows.Forms.Padding(2);
+            this.AnnullR1.Name = "AnnullR1";
+            this.AnnullR1.ReadOnly = true;
+            this.AnnullR1.Size = new System.Drawing.Size(113, 20);
+            this.AnnullR1.TabIndex = 399;
+            this.AnnullR1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // AnullM
+            // AnnullM
             // 
-            this.AnullM.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.AnullM.Location = new System.Drawing.Point(267, 156);
-            this.AnullM.Margin = new System.Windows.Forms.Padding(2);
-            this.AnullM.Name = "AnullM";
-            this.AnullM.ReadOnly = true;
-            this.AnullM.Size = new System.Drawing.Size(101, 20);
-            this.AnullM.TabIndex = 398;
-            this.AnullM.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.AnnullM.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.AnnullM.Location = new System.Drawing.Point(267, 156);
+            this.AnnullM.Margin = new System.Windows.Forms.Padding(2);
+            this.AnnullM.Name = "AnnullM";
+            this.AnnullM.ReadOnly = true;
+            this.AnnullM.Size = new System.Drawing.Size(101, 20);
+            this.AnnullM.TabIndex = 398;
+            this.AnnullM.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // AnnulS
             // 
@@ -1952,8 +1952,8 @@
             this.Controls.Add(this.DivS);
             this.Controls.Add(this.DivB);
             this.Controls.Add(this.AnnulR2);
-            this.Controls.Add(this.AnullRev1);
-            this.Controls.Add(this.AnullM);
+            this.Controls.Add(this.AnnullR1);
+            this.Controls.Add(this.AnnullM);
             this.Controls.Add(this.AnnulS);
             this.Controls.Add(this.AnnulB);
             this.Controls.Add(this.ExaltR2);
@@ -2073,8 +2073,8 @@
         private System.Windows.Forms.TextBox ExaltR1;
         private System.Windows.Forms.TextBox ExaltR2;
         private System.Windows.Forms.TextBox AnnulR2;
-        private System.Windows.Forms.TextBox AnullRev1;
-        private System.Windows.Forms.TextBox AnullM;
+        private System.Windows.Forms.TextBox AnnullR1;
+        private System.Windows.Forms.TextBox AnnullM;
         private System.Windows.Forms.TextBox AnnulS;
         private System.Windows.Forms.TextBox AnnulB;
         private System.Windows.Forms.TextBox RegR2;
