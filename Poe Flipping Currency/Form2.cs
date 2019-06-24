@@ -22,12 +22,19 @@ namespace Poe_Flipping_Currency
         private void Calculate_Click(object sender, EventArgs e)
         {
 
-            // Inset the remaining currencies
+            // Currencies that will be calculated.
+            // At the end of each variables, the letters stands for the following:
+            // B = Buy
+            // S = Sell
+            // M = Margin
+            // R1 = Revenue1 (per 10 chaos spent)
+            // R2 = Revenue2 (per 100 chaos spent)
+
             GetResultInTextBox1(AltB, AltS, AltM, AltR1, AltR2);
-            GetResultInTextBox1(ExaltB, ExaltS, ExaltM, ExaltR1, ExaltR2);
-            GetResultInTextBox1(AnnulB, AnnulS, AnnullM, AnnullR1, AnnulR2);
+            GetResultInTextBox1(ExaltB, ExaltS, ExaltM, ExaltR1, ExaltR2); 
+            GetResultInTextBox1(AnnulB, AnnulS, AnnullM, AnnullR1, AnnulR2); 
             GetResultInTextBox1(RegB, RegS, RegM, RegR1, RegR2);
-            GetResultInTextBox1(DivB, DivS, DivM, DivR1, DivR2);
+            GetResultInTextBox1(DivB, DivS, DivM, DivR1, DivR2); 
             GetResultInTextBox1(GemB, GemS, GemM, GemR1, GemR2);
             GetResultInTextBox1(VaalB, VaalS, VaalM, VaalR1, VaalR2);
             GetResultInTextBox1(JewelB, JewelS, JewelM, JewelR1, JewelR2);
@@ -60,6 +67,7 @@ namespace Poe_Flipping_Currency
 
         }
 
+        //Algorithm for the calculation of margins and revenues based on Buy and Sell input from user
         public void GetResultInTextBox1(TextBox first, TextBox second, TextBox margin, TextBox rev1, TextBox rev2)
         {
             var r1 = float.TryParse(first.Text, out float a);
